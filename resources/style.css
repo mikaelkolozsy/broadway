@@ -39,6 +39,9 @@ a {
   word-spacing: 10em;
 }
 
+a:hover {
+    color: black;}
+
 header{
   border-bottom: 2px gray solid;
   margin: 0; padding: 0;
