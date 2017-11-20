@@ -16,20 +16,60 @@ h1 {
 }
 
 nav {
+  background-color: gray;
+  opacity: 0.9;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 
+a {
+  color: white;
+  text-decoration: none;
+  word-spacing: 10em;
+}
+
+.heading{
+  color:white;
+  font-size: 40px;
+  letter-spacing: 0.3em;
+  text-align: center;
+}
+
+h3{
+  padding-left: 10em;
+  font-size: 25px;
+}
+
+h6{
+  padding-left: 17em;
+  text-align: left;
+  font-size: 15px;
 }
 
 main{
+  background-color: black;
+  color: white;
+  line-height: 3em;
+  text-align: left;
+}
 
-
+img {
+  width: 75px;
+  height: 75px;
+  float: left;
+  padding-left: 10em;
 }
 
 section {
+  background-color: gray;
+  opacity: 0.8;
+  color:white;
 
 
 }
 
 footer{
-
+  background-color: black;
+  opacity: 0.8;
 
 }
